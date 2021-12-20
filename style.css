@@ -102,7 +102,7 @@ header nav .main-div{
 /* header nav close */
 
 .divsec-first{
-  background-image: linear-gradient(rgba(18,18,18,0.704),rgba(22,22,22,0.779)), url('../img/bgheader.jpg');
+  background-image: linear-gradient(rgba(18,18,18,0.704),rgba(22,22,22,0.779)), url('bgheader.jpg');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
